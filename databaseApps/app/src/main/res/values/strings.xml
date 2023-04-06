@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P1800 Environment Recorder</string>
+    <string name="date_and_time">Date and Time</string>
+    <string name="temperature">Temperature</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="id">ID</string>
+</resources>
